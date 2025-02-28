@@ -1,0 +1,4 @@
+yfinance
+duckduckgo_search
+langgraph
+groq
