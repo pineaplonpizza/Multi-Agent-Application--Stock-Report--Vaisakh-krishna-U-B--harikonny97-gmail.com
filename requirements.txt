@@ -2,3 +2,4 @@ yfinance
 duckduckgo_search
 langgraph
 groq
+python-dotenv
